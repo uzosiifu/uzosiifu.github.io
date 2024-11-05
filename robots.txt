@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzosiifu.github.io/MBX/sitemap_index.txt
+Sitemap: https://uzosiifu.github.io/OiJ/sitemap_index.txt
+Sitemap: https://uzosiifu.github.io/WPa/sitemap_index.txt
+Sitemap: https://uzosiifu.github.io/khr/sitemap_index.txt
